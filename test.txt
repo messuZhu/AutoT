@@ -6,3 +6,4 @@
 这是mergedemo分支,这是我合并后需要保存的内容
 >>>>>>> mergedemo
 version 1.0
+version 2.0
