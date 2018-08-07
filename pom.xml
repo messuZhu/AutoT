@@ -4,13 +4,15 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.course.testng</groupId>
+    <groupId>com.course.code</groupId>
     <artifactId>Chapter</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+
     <modules>
         <module>Chapter5</module>
+        <module>Chapter6</module>
+        <module>Chapter9</module>
     </modules>
-
 
 </project>

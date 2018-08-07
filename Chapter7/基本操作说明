@@ -1,0 +1,6 @@
+例如：
+java -jar ./moco-runner-下载jar包版本的版本号-standalone.jar http -p web端口 -c 文件.json
+
+
+java -jar ./moco-runner-0.11.0-standalone.jar http -p 8888 -c startup1.json
+java -jar ./moco-runner-0.11.0-standalone.jar http -p 8888 -c startupGet.json
